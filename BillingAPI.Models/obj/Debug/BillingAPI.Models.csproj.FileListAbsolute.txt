@@ -1,0 +1,12 @@
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI.Models\bin\Debug\BillingAPI.Models.dll
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI.Models\bin\Debug\BillingAPI.Models.pdb
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI.Models\obj\Debug\BillingAPI.Models.csprojAssemblyReference.cache
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI.Models\obj\Debug\BillingAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI.Models\obj\Debug\BillingAPI.Models.dll
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI.Models\obj\Debug\BillingAPI.Models.pdb
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI\BillingAPI.Models\bin\Debug\BillingAPI.Models.dll
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI\BillingAPI.Models\bin\Debug\BillingAPI.Models.pdb
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI\BillingAPI.Models\obj\Debug\BillingAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI\BillingAPI.Models\obj\Debug\BillingAPI.Models.dll
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI\BillingAPI.Models\obj\Debug\BillingAPI.Models.pdb
+C:\Users\Marks\Desktop\Perosnal Git\BillingAPI\BillingAPI.Models\obj\Debug\BillingAPI.Models.csprojAssemblyReference.cache
